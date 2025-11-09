@@ -1,4 +1,4 @@
-# Modeling Memory Retention with Ebbinghaus's Forgetting Curve
+# Modeling Memory Retention with Ebbinghaus's Forgetting Curve Streamlit Deployment
 
 <div align="center">
 
